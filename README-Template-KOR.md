@@ -21,7 +21,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">프로젝트명</h3>
+  <h3 align="center">프로젝트명</h3>
 
   <p align="center">
     프로젝트 설명
@@ -29,15 +29,33 @@
     <a href="https://github.com/github_username/repo_name"><strong>문서 보러가기 »</strong></a>
     <br />
     <br />
-    <a href="https://github.co치">설치 방법</a></li>
+    <a href="https://github.com/github_username/repo_name">데모 보기</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug">버그 제보</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement">기능 요청</a>
+  </p>
+</div>
+
+<!-- 목차 -->
+<details>
+  <summary>목차</summary>
+  <ol>
+    <li><a href="#프로젝트-소개">프로젝트 소개</a></li>
+    <li><a href="#개발-환경-및-주요-기술">개발 환경 및 주요 기술</a></li>
+    <li>
+      <a href="#시작하기">시작하기</a>
+      <ul>
+        <li><a href="#사전-준비">사전 준비</a></li>
+        <li><a href="#설치">설치 방법</a></li>
       </ul>
     </li>
-    <li><a href="#사용 방법">사용 방법</a></li>
-    <li><a href="#로드맵">개발 로드맵</a></li>
-    <li><a href="#기여 방법">기여 방법</a></li>
+    <li><a href="#사용-방법">사용 방법</a></li>
+    <li><a href="#로드맵">로드맵</a></li>
+    <li><a href="#기여-방법">기여 방법</a></li>
     <li><a href="#라이선스">라이선스</a></li>
     <li><a href="#문의">문의</a></li>
-    <li><a href="#감사의 글글">감사의 글</a></li>
+    <li><a href="#감사의-글">감사의 글</a></li>
   </ol>
 </details>
 
